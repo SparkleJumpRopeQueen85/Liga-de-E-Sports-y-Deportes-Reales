@@ -8,15 +8,15 @@ Usar colecciones genéricas para manejar datos de forma dinámica.
 Diseñar un sistema modular, escalable y reutilizable.
 
 Estructura del Proyecto
-📁 LigaDeportesProyecto
+LigaDeportesProyecto
 │
-├── 📄 Program.cs
-├── 📄 Player.cs
-├── 📄 Team.cs
-├── 📄 Tournament.cs
-├── 📄 Achievement.cs
-├── 📄 Utils.cs
-└── 📄 README.md
+├── Program.cs
+├── Player.cs
+├── Team.cs
+├── Tournament.cs
+├── Achievement.cs
+├── Utils.cs
+└── README.md
 
 
 Descripción de Clases
@@ -85,13 +85,13 @@ El programa permite:
   Usar LINQ para filtrar los mejores jugadores o equipos.
 
 
-⚡ Cómo Ejecutar el Proyecto
+Cómo Ejecutar el Proyecto
 1. Abre el proyecto en Visual Studio 
 2. Asegúrate de tener configurado el entorno de .NET.
 3. Compila y ejecuta con el comando: dotnet run
 
 
-💡 Tecnologías Utilizadas
+Tecnologías Utilizadas
 Lenguaje: C# (.NET 6 o superior)
 Paradigma: Programación Genérica y Orientada a Objetos
 Librerías: System, System.Collections.Generic, System.Linq  
